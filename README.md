@@ -1,7 +1,7 @@
 NDK-Activity-OpenglES2.1
 ========================
 
-now with Matrices and other nifty GLSL features that are still WIP.
+now with some opengles 2.0 functionalities, Matrices and other nifty GLSL features that are still WIP.
 
 
 
